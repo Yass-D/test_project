@@ -1,2 +1,4 @@
 # test_project
-My first jump into Github
+Hello everybody!
+
+This is my first jump into the universe of Github.
